@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,6 +20,5 @@
   "homepage": "https://github.com/lolwner/DiscordNotifyBot#readme",
   "dependencies": {
     "discord.js": "^12.2.0"
-  },
-  "start": "node index.js"
+  } 
 }
